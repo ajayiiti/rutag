@@ -1,0 +1,64 @@
+---
+layout: default
+title: "Projects"
+description: "Projects from the lab"
+group: navigation
+navorder: 2
+---
+{% include JB/setup %}
+<div class="bigspacer"></div> 
+{% assign memberindex = 0 %}
+{% for project in site.categories.projects %}
+  {% assign memberindex = memberindex | plus: 1 %}
+  {% assign colindex = memberindex | modulo: 3 %}
+  {% if colindex == 1 %} <!-- opening of a new row -->
+  <div class="row">
+  {% endif %}
+
+    <div class="col-md-4 paperbox">
+      {% if project.embargo %}
+      <div class="media">
+          <img width=100 class="media-object pull-right" src="{{ project.image }}"/>
+          <div class="media-body">
+            <div class="smallhead media-heading">
+            {{ project.title }}
+            </div>
+            <p class="note">{{ project.status }}</p>
+          </div>
+      </div>
+      {% elsif project.preprint %}
+      <div class="media">
+        <a class="pull-right" href="{{ project.url }}">
+          <img width=100 class="media-object" src="{{ project.image }}">
+        </a>
+        <div class="media-body">
+            <div class="smallhead media-heading">
+            <a href="{{ project.url }}" class="off">PREPRINT: {{ project.title }}</a>
+            </div>
+            <p class="note">{{ project.status }}</p>
+        </div>
+      </div>
+      {% else %}
+      <div class="media">
+        <a class="pull-right" href="{{ project.url }}">
+          <img width=100 class="media-object" src="{{ project.image }}">
+        </a>
+        <div class="media-body">
+            <div class="smallhead media-heading">
+            <a href="{{ project.url }}" class="off">{{ project.title }}</a>
+            </div>
+            <p class="note">{{ project.status }}</p>
+        </div>
+      </div>
+      {% endif %}
+    </div>
+  {% if colindex == 0 %} <!-- closing a row -->
+  </div><div class="bigspacer"></div>
+  {% endif %}
+{% endfor %}
+{% if colindex != 0 %} <!-- close last open row -->
+</div><div class="bigspacer"></div>
+{% endif %}
+
+
+<div class="bigspacer"></div>
