@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+        <title>RuTAG @ IIT Indore</title>
+        <description>RuTAG @ IIT Indore - </description>
+        <link></link>
+        <link></link>
+        <lastBuildDate>2020-07-15T02:51:13+05:30</lastBuildDate>
+        <pubDate>2020-07-15T02:51:13+05:30</pubDate>
+        <ttl>1800</ttl>
+
+
+        <item>
+                <title>Title of News goes here..</title>
+                <description>&lt;p&gt;Some random text here. x-special/nautilus-clipboard
+copy
+file:///home/ajay/Desktop/RuTAG/news/_posts/2020-07-14-title-of-news-goes-here.md&lt;/p&gt;
+
+</description>
+                <link>/news/title-of-news-goes-here</link>
+                <guid>/news/title-of-news-goes-here</guid>
+                <pubDate>2020-07-14T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Title of News goes here..</title>
+                <description>&lt;p&gt;Some random text here. some random text here. Some random text here. Some random text here. Some random text here. Some random text here.&lt;/p&gt;
+
+</description>
+                <link>/news/title-of-news-goes-here-(copy)</link>
+                <guid>/news/title-of-news-goes-here (copy)</guid>
+                <pubDate>2020-07-14T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Title of News goes here..</title>
+                <description>&lt;p&gt;Some random text here.
+some random text here. Some random text here.&lt;/p&gt;
+
+</description>
+                <link>/news/title-of-news-goes-here-(another-copy)</link>
+                <guid>/news/title-of-news-goes-here (another copy)</guid>
+                <pubDate>2020-07-14T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Title of News goes here..</title>
+                <description>&lt;p&gt;Some random text here. x-special/nautilus-clipboard
+copy
+file:///home/ajay/Desktop/RuTAG/news/_posts/2020-07-14-title-of-news-goes-here.md&lt;/p&gt;
+
+</description>
+                <link>/news/title-of-news-goes-here-(5th-copy)</link>
+                <guid>/news/title-of-news-goes-here (5th copy)</guid>
+                <pubDate>2020-07-14T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Title of News goes here..</title>
+                <description>&lt;p&gt;Some random text here. x-special/nautilus-clipboard
+copy
+file:///home/ajay/Desktop/RuTAG/news/_posts/2020-07-14-title-of-news-goes-here.md&lt;/p&gt;
+
+</description>
+                <link>/news/title-of-news-goes-here-(4th-copy)</link>
+                <guid>/news/title-of-news-goes-here (4th copy)</guid>
+                <pubDate>2020-07-14T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Title of News goes here..</title>
+                <description>&lt;p&gt;Some random text here. some random text here. Some random text here. Some random text here. Some random text here. Some random text here.&lt;/p&gt;
+
+</description>
+                <link>/news/title-of-news-goes-here-(3rd-copy)</link>
+                <guid>/news/title-of-news-goes-here (3rd copy)</guid>
+                <pubDate>2020-07-14T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Design and development of tower climbing hexapod with shape memory alloy (SMA) actuated suction grippers</title>
+                <description>
+&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;The purpose of the paper is to describe a wall climbing Hexapod having Shape Memory Alloy actuated suction grippers.
+&lt;br /&gt;
+Recent researches have shown that SMA provides an alternative for traditional actuators like motors, pneumatics or hydraulics. The property of shape memory alloy to forcefully regain their shape with temperature change is used to develop controllable suction grippers. The principle of joule heating is utilized for actuation of Nitinol springs. These controllable suction grippers can be integrated with standard hexapod gait for the wall climbing application. High energy usage and one-time evacuation of air are the major disadvantages. However, reduction in weight, bulkiness and noise of actuation are significant advantages. Usage of inherent material properties for actuation of suction grippers is the novelty introduced. This feature can also be applied in various legged and non-legged robotic applications.&lt;/p&gt;
+</description>
+                <link>/projects/paper/project1</link>
+                <guid>/projects/paper/project1</guid>
+                <pubDate>2020-07-01T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Here goes the name of the completd project done along with the names of collobarators</title>
+                <description>
+&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Some random text goes here……………..
+…………………………………………………………………………………&lt;br /&gt;
+.–
+-
+-
+-
+-&lt;/p&gt;
+
+&lt;h2 id=&quot;-&quot;&gt;-&lt;/h2&gt;
+&lt;p&gt;-
+—————————————————————————————————–&lt;br /&gt;
+-
+-
+-
+-
+-
+-&lt;/p&gt;
+
+&lt;h2 id=&quot;--1&quot;&gt;-&lt;/h2&gt;
+
+</description>
+                <link>/projects/paper/project2</link>
+                <guid>/projects/paper/project2</guid>
+                <pubDate>2020-06-02T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>We will add the name of the project here so for that adding random text</title>
+                <description>
+&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Some random text goes here……………..
+…………………………………………………………………………………&lt;br /&gt;
+.–
+-
+-
+-
+-&lt;/p&gt;
+
+&lt;h2 id=&quot;-&quot;&gt;-&lt;/h2&gt;
+&lt;p&gt;-
+—————————————————————————————————–&lt;br /&gt;
+-
+-
+-
+-
+-
+-&lt;/p&gt;
+
+&lt;h2 id=&quot;--1&quot;&gt;-&lt;/h2&gt;
+
+</description>
+                <link>/projects/paper/project3</link>
+                <guid>/projects/paper/project3</guid>
+                <pubDate>2020-03-15T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>A name of the project proposed</title>
+                <description>
+&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Some random text goes here……………..
+…………………………………………………………………………………&lt;br /&gt;
+.–
+-
+-
+-
+-&lt;/p&gt;
+
+&lt;h2 id=&quot;-&quot;&gt;-&lt;/h2&gt;
+&lt;p&gt;-
+—————————————————————————————————–&lt;br /&gt;
+-
+-
+-
+-
+-
+-&lt;/p&gt;
+
+&lt;h2 id=&quot;--1&quot;&gt;-&lt;/h2&gt;
+
+</description>
+                <link>/projects/proposed-project4</link>
+                <guid>/projects/proposed-project4</guid>
+                <pubDate>2020-03-01T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Here goes the name of the proposed project</title>
+                <description>
+&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Some random text goes here……………..
+…………………………………………………………………………………&lt;br /&gt;
+.–
+-
+-
+-
+-&lt;/p&gt;
+
+&lt;h2 id=&quot;-&quot;&gt;-&lt;/h2&gt;
+&lt;p&gt;-
+—————————————————————————————————–&lt;br /&gt;
+-
+-
+-
+-
+-
+-&lt;/p&gt;
+
+&lt;h2 id=&quot;--1&quot;&gt;-&lt;/h2&gt;
+
+</description>
+                <link>/projects/paper/project5</link>
+                <guid>/projects/paper/project5</guid>
+                <pubDate>2020-02-20T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Dr Aruna Tiwari</title>
+                <description>&lt;p&gt;Rosalind is an associate professor at [IIT Indore][2].&lt;/p&gt;
+
+</description>
+                <link>/team/aruna-tiwari</link>
+                <guid>/team/aruna-tiwari</guid>
+                <pubDate>2019-09-01T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Dr Aruna Tiwari</title>
+                <description>&lt;p&gt;Rosalind is an associate professor at [IIT Indore][2].&lt;/p&gt;
+
+</description>
+                <link>/team/aruna-tiwari-(copy)</link>
+                <guid>/team/aruna-tiwari (copy)</guid>
+                <pubDate>2019-09-01T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Dr Aruna Tiwari</title>
+                <description>&lt;p&gt;Rosalind is an associate professor at [IIT Indore][2].&lt;/p&gt;
+
+</description>
+                <link>/team/aruna-tiwari-(another-copy)</link>
+                <guid>/team/aruna-tiwari (another copy)</guid>
+                <pubDate>2019-09-01T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Dr Aruna Tiwari</title>
+                <description>&lt;p&gt;Rosalind is an associate professor at [IIT Indore][2].&lt;/p&gt;
+
+</description>
+                <link>/team/aruna-tiwari-(5th-copy)</link>
+                <guid>/team/aruna-tiwari (5th copy)</guid>
+                <pubDate>2019-09-01T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Dr Aruna Tiwari</title>
+                <description>&lt;p&gt;Rosalind is an associate professor at [IIT Indore][2].&lt;/p&gt;
+
+</description>
+                <link>/team/aruna-tiwari-(4th-copy)</link>
+                <guid>/team/aruna-tiwari (4th copy)</guid>
+                <pubDate>2019-09-01T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Dr Aruna Tiwari</title>
+                <description>&lt;p&gt;Rosalind is an associate professor at [IIT Indore][2].&lt;/p&gt;
+
+</description>
+                <link>/team/aruna-tiwari-(3rd-copy)</link>
+                <guid>/team/aruna-tiwari (3rd copy)</guid>
+                <pubDate>2019-09-01T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>Name of the project goes here.</title>
+                <description>
+&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Some random text goes here……………..
+…………………………………………………………………………………&lt;br /&gt;
+.–
+-
+-
+-
+-&lt;/p&gt;
+
+&lt;h2 id=&quot;-&quot;&gt;-&lt;/h2&gt;
+&lt;p&gt;-
+—————————————————————————————————–&lt;br /&gt;
+-
+-
+-
+-
+-
+-&lt;/p&gt;
+
+&lt;h2 id=&quot;--1&quot;&gt;-&lt;/h2&gt;
+
+</description>
+                <link>/projects/project</link>
+                <guid>/projects/project</guid>
+                <pubDate>2018-05-04T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>RuTAG- IIT Indore</title>
+                <description>&lt;p&gt;&lt;strong&gt;Rural Technology Action Group (RuTAG)&lt;/strong&gt; at IIT indore is an initiative by the government of india and coordinated by the Office of the Principal Scientific Adviser &lt;strong&gt;(PSA)&lt;/strong&gt;.  It is related to the development and dissemination of technologies for rural development.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Madhya Pradesh&lt;/strong&gt; with its central location is the very heart of India. with its large area, enjoys diverse climatic and soil conditions for a broad range of agricultural products. It contributes almost one-third of the &lt;strong&gt;Gross State Domestic Product&lt;/strong&gt; (GSDP) and is the main source of employment for over 70 percent population and constitutes about 60-75 percent of the rural income, and ranks &lt;strong&gt;5th&lt;/strong&gt; amongst the &lt;strong&gt;largest agriculture producing states&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;The main constraint preventing advances in technologies for rural application from reaching most villages in India in full measure seems to be the &lt;strong&gt;lack of local technology action groups&lt;/strong&gt; who can assist in upgrading the assessment of the technology needs and the current methodology status of different rural occupation groups, i.e. farmers, rural artisans and the landless, to enable them to add value to their products &amp;amp; services.&lt;/p&gt;
+
+&lt;p&gt;Rural Technology support is critical for realizing the vast potential of the Rural Farm and Non-farm Sectors.The quality research work at &lt;strong&gt;IIT Indore&lt;/strong&gt; will certainly help develop tools and technologies for rural development.&lt;/p&gt;
+
+</description>
+                <link>/misc/home/home</link>
+                <guid>/misc/home/home</guid>
+                <pubDate>2015-04-22T00:00:00+05:30</pubDate>
+        </item>
+
+        <item>
+                <title>About</title>
+                <description>
+&lt;p&gt;&lt;a name=&quot;purpose&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;objective&quot;&gt;Objective&lt;/h1&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;i)Introduction of new technologies which foster the rural entrepreneurship and rural
+employment.
+ii)Interaction with the Non-Government Organizations (NGOs), Community Based
+ Organizations (CBOs) and S&amp;amp;amp;T institutions for identifying problems, needs and demands
+ from the area and creating a mechanism to provide the best possible S,T&amp;amp;amp;M inputs in a
+ comprehensive manner.
+ iii)Encourage professionally trained people,institutions and senior experts from the
+  respective domain to be part of this program.
+  iv) State of the Art Studies on technology transfer for
+    a) Zardozi and embroidery - Bhopal, Maheshwar, Chanderi
+	b) Handicraft - Gwalior
+	c) Textile Manufacturing - Indore
+	d) Food processing techniques- Jabalpur,Khargone
+	e) Soyabean oil extraction techniques-Dewas
+	iv)Encouraging innovation and fostering creativity, downsizing technologies as well as
+ developing new ones through the participation of technical institutions as well as grass root
+ institutions.
+ v)Technologies for physically challenged.
+ vi)In order to fulfill the above objectives the activities that need to be taken up have been
+  identified as :
+  a)Setting up a Knowledge Resource Centre at IIT Indore.
+  b)Facilitating entrepreneurship by setting up a Business Development &amp;amp;amp; Support
+    Cell.
+  c)Undertaking sponsored projects and conducting specialized skills development
+	and training programs.
+  d)Conducting workshops, seminars, awareness programs, develop database and
+	disseminate information about the various technologies and services available
+	locally,regionally,nationally, and internationally.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a name=&quot;design&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;technology-areas&quot;&gt;TECHNOLOGY AREAS&lt;/h1&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;i) Agricultural machinery.
+ii) Sustainable energy (solar, wind, bio-mass).
+iii) Water management (harvesting, irrigation, filtration).
+iv) Waste management
+	techniques(Gasification,Incineration,Composting,Landfill,Recycling).
+v) Automation of agricultural processes.
+vi) Information systems to store and process data(Database, Management information systems, Geographic information systems, Total quality management for demand and
+	supply management).
+vii) Civil Infrastructure (housing, transport, sanitation)
+viii) Local Crafts (textile weaving, carpet weaving,stone carving,bamboo work).
+ix) Health systems.
+x) Education and training support.
+xi) Technology for physically challenged.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a name=&quot;contact&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;contact&quot;&gt;Contact&lt;/h1&gt;
+
+&lt;h2 id=&quot;mailing-address&quot;&gt;Mailing Address&lt;/h2&gt;
+&lt;p&gt;Indian Institute of Technology Indore&lt;br /&gt;
+ Khandwa Road, Simrol,&lt;br /&gt;
+  Indore 453552&lt;/p&gt;
+
+&lt;p&gt;On the &lt;a href=&quot;https://goo.gl/maps/QP6aFGVu5SKbX5FD7&quot;&gt;map&lt;/a&gt;,.&lt;/p&gt;
+
+&lt;h2 id=&quot;phone&quot;&gt;Phone&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Lab: (+91) XXXX-XXXXX&lt;/li&gt;
+  &lt;li&gt;Office:&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+                <link>/misc/about</link>
+                <guid>/misc/about</guid>
+                <pubDate>2015-04-18T00:00:00+05:30</pubDate>
+        </item>
+
+
+</channel>
+</rss>
