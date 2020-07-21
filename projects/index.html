@@ -18,7 +18,7 @@ navorder: 2
     <div class="col-md-4 paperbox">
       {% if project.embargo %}
       <div class="media">
-          <img width=100 class="media-object pull-right" src="{{ project.image }}"/>
+          <img width=100 class="media-object pull-right" src="{{ BASE_PATH }}/{{ project.image }}"/>
           <div class="media-body">
             <div class="smallhead media-heading">
             {{ project.title }}
@@ -29,7 +29,7 @@ navorder: 2
       {% elsif project.preprint %}
       <div class="media">
         <a class="pull-right" href="{{ project.url }}">
-          <img width=100 class="media-object" src="{{ project.image }}">
+          <img width=100 class="media-object" src="{{ BASE_PATH }}/{{ project.image }}">
         </a>
         <div class="media-body">
             <div class="smallhead media-heading">
@@ -41,7 +41,7 @@ navorder: 2
       {% else %}
       <div class="media">
         <a class="pull-right" href="{{ project.url }}">
-          <img width=100 class="media-object" src="{{ project.image }}">
+          <img width=100 class="media-object" src="{{ BASE_PATH }}/{{ project.image }}">
         </a>
         <div class="media-body">
             <div class="smallhead media-heading">
