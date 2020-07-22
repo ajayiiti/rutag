@@ -30,8 +30,8 @@ navorder: 3
 						margin-right: 15px;
 						margin-top: 15px;">
 		<div class="media">
-				<a class="pull-left" href="{{ member.url }}">
-				<img class="media-object member-photo" src="{{ BASE_PATH }}/assets/images/team//{{ member.image }}">
+				<a class="pull-left" href="{{ BASE_PATH }}{{ member.url }}">
+				<img class="media-object member-photo" src="{{ BASE_PATH }}{{ member.image }}">
 				</a>
 			 	<div class="media-body">
 				<div class="head media-heading member-name"><a href="{{ BASE_PATH }}/{{ member.url }}" class="off">{{ member.title }}</a></div>
