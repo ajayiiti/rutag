@@ -31,7 +31,7 @@ navorder: 3
 						margin-top: 15px;">
 		<div class="media">
 				<a class="pull-left" href="{{ member.url }}">
-				<img class="media-object member-photo" src="{{ BASE_PATH }}/{{ member.image }}">
+				<img class="media-object member-photo" src="{{ ASSET_PATH }}/{{ member.image }}">
 				</a>
 			 	<div class="media-body">
 				<div class="head media-heading member-name"><a href="{{ BASE_PATH }}/{{ member.url }}" class="off">{{ member.title }}</a></div>
@@ -76,7 +76,7 @@ navorder: 3
 				<img class="media-object member-photo" src="{{ BASE_PATH }}/{{ member.image }}">
 				</a>
 			 	<div class="media-body">
-				<div class="head media-heading member-name"><a href="{{ BASE_PATH  }}{{ member.url }}" class="off">{{ member.title }}</a></div>
+				<div class="head media-heading member-name"><a href="{{ BASE_PATH  }}/{{ member.url }}" class="off">{{ member.title }}</a></div>
 				<p class="note">{{ member.position }}</p>
 				</div>
 		</div>
