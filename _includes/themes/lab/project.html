@@ -9,7 +9,7 @@ with gratitude.
 	<div class="col-md-3">
 		<div class="media">
 			{% if page.image %}
-			<img class="pull-left pad-right media-object paper-image" src="{{ BASE_PATH }}/{{ page.image }}">
+			<img class="pull-left pad-right media-object paper-image" src="{{ BASE_PATH }}{{ page.image }}">
 			{% endif %}
 		</div>
 	</div>
@@ -61,15 +61,15 @@ with gratitude.
 				{% if page.pdflink %}
 					<i class="fa fa-file-pdf-o fa-fw"></i>
 					{% if page.preprint %}
-					<a class="off" href="{{ BASE_PATH }}/{{ page.pdflink }}">Preprint PDF</a>
+					<a class="off" href="{{ BASE_PATH }}{{ page.pdflink }}">Preprint PDF</a>
 					{% else %}
-					<a class="off" href="{{ BASE_PATH }}/{{ page.pdflink }}">Open PDF</a>
+					<a class="off" href="{{ BASE_PATH }}{{ page.pdflink }}">Open PDF</a>
 					{% endif %}
 					<br/>
 				{% endif %}
 				{% if page.pdf %}
 					<i class="fa fa-file-pdf-o fa-fw"></i>
-					<a class="off" href="{{ BASE_PATH }}/{{ page.pdf }}">PDF</a>
+					<a class="off" href="{{ BASE_PATH }}{{ page.pdf }}">PDF</a>
 					<br/>
 				{% endif %}
 				{% if page.fulltext %}
