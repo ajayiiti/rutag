@@ -302,8 +302,11 @@ strong {
 .head {
 	font-size: $font-size-base*2;
 	font-weight: $font-weight-base;
-	line-height:30px;
+	line-height:38px;
 	background-color: #fdcd60;
+	text-align: center;
+	border-bottom-left-radius: 20px;
+	border-start-end-radius: 20px;
 }
 
 .smallhead {
