@@ -2,7 +2,7 @@
 layout: member
 title: "Mr. Dushyant Pratap"
 position: Team Secretary
-email: ----@iiti.ac.in
+email: dushyant@iiti.ac.in
 twitter: 
 github: 
 scholar: 
