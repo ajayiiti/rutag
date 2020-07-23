@@ -6,7 +6,7 @@ email: nirajshukla[at]iiti.ac.in
 twitter: 
 github: 
 scholar: 
-image: /assets/images/team/aruna.jpg
+image: /assets/images/team/niraj.png
 alum: false
 ---
 
