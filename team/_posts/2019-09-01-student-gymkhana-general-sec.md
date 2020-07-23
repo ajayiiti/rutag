@@ -1,7 +1,7 @@
 ---
 layout: member
 title: "Students’ Gymkhana"
-position: General Secretary
+position: Member
 email: gensecy@iiti.ac.in
 twitter: 
 github: 
@@ -16,7 +16,7 @@ of all the club activities, Intra-IIT festivals & activities, and the organizati
 annual techno-cultural event Fluxus, among any other duties assigned by the
 Institute.  [IIT Indore][1]. <br/>
 
-Web page: https://gymkhana-2a704.firebaseapp.com/[2]
+Web page: [https://gymkhana-2a704.firebaseapp.com/][2]
 
 [1]: https://iiti.ac.in
 [2]: https://gymkhana-2a704.firebaseapp.com/
