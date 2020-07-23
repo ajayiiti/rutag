@@ -1,6 +1,6 @@
 ---
 layout: member
-title: "Dr Niraj Kumar Shukla"
+title: "Dr Niraj K. Shukla"
 position: Convenor
 email: nirajshukla[at]iiti.ac.in
 twitter: 
