@@ -6,7 +6,7 @@ email: avana@iiti.ac.in
 twitter: 
 github: 
 scholar: 
-image: /assets/images/team/.jpg
+image: /assets/images/team/avana.jpg
 alum: false
 ---
 
