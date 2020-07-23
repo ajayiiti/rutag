@@ -13,6 +13,6 @@ alum: false
 
 Web page: [http://iiti.ac.in/people/~artiwari/][2]
 
-[1]: http://cse.iiti.ac.in
-[2]: http://iiti.ac.in/people/~artiwari/
+[1]: https://iiti.ac.in
+[2]: https://iiti.ac.in/people/~artiwari/
 
