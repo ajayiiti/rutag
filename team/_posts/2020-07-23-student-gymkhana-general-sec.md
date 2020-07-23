@@ -6,7 +6,7 @@ email: gensecy@iiti.ac.in
 twitter: 
 github: 
 scholar: 
-image: /assets/images/team/gymkhana.png
+image: /assets/images/team/gymkhana.jpg
 alum: false
 ---
 
