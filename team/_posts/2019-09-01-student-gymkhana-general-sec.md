@@ -6,7 +6,7 @@ email: gensecy@iiti.ac.in
 twitter: 
 github: 
 scholar: 
-image: /assets/images/team/.jpg
+image: /assets/images/team/Unknown.png
 alum: false
 ---
 
