@@ -8,4 +8,6 @@ gem 'github-pages', group: :jekyll_plugins
 
 gem "kramdown", ">= 2.3.0"
 
+gem 'jekyll-admin', group: :jekyll_plugins
+
 
