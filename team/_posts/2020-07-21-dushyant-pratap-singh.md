@@ -7,7 +7,7 @@ twitter:
 github: 
 scholar: 
 image: /assets/images/team/Unknown.png
-alum: false
+volunteer: false
 ---
 **Mr. Dushyant Pratap Singh** is Deputy Manager in Material Management Section at [IIT Indore][1].
 
