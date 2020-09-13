@@ -8,7 +8,7 @@ navorder: 3
 {% include JB/setup %}
 
 <div class="bigspacer"></div>
-{% assign current_team = site.categories.team | where: "alum","false"%}
+{% assign current_team = site.categories.team | where: "volunteer","false"%}
 {% assign memberindex = 0 %}
 {% for member in current_team reversed %}
 	{% assign memberindex = memberindex | plus: 1 %}
@@ -62,9 +62,9 @@ navorder: 3
 <hr/>
 
 
-{% assign alumni = site.categories.team | where: "alum","true"%}
+{% assign volunteer = site.categories.team | where: "volunteer","true"%}
 {% assign memberindex = 0 %}
-{% for member in alumni %}
+{% for member in volunteer %}
 	{% assign memberindex = memberindex | plus: 1 %}
 	{% assign colindex = memberindex | modulo: 3 %}
 	{% if colindex == 1 %} <!-- opening of a new row -->
