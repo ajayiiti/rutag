@@ -7,7 +7,7 @@ twitter:
 github: 
 scholar: 
 image: /assets/images/team/sunil.jpg
-alum: false
+volunteer: false
 ---
 Cdr Sunil Kumar (Retd.) is an Deputy Registrar, Student Affairs at [IIT Indore][1].</br>
 
