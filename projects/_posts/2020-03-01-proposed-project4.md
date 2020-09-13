@@ -1,10 +1,10 @@
 ---
 layout: project
-title: "A name of the project proposed"
-year: "2019"
-status: "Proposed"
-nickname: nobel-prize-arnold
-authors: "McCully AL, Behringer MG, Gliessman JR, Pilipenko EV, Mazny JL, Lynch M, Drummond DA, McKinlay JB"
+title: "Title of Project"
+year: "year"
+status: "status"
+nickname: nickname
+authors: "Author1, Author2"
 image: /assets/images/papers/pab1-phase-separation.svg
 redirect_from: 
 fulltext: https://onlinelibrary.wiley.com/doi/full/10.1111/evo.13697
