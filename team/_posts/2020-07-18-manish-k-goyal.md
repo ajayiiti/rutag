@@ -7,7 +7,7 @@ twitter:
 github: 
 scholar: 
 image: /assets/images/team/mkgoyal.jpg
-alum: false
+volunteer: false
 ---
 [Dr. Manish Kumar Goyal][2] is an Associate Professor in the Discipline of Civil Engineering, [IIT Indore][1].<br/>
 <br/>
