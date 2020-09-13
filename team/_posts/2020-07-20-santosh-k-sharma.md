@@ -7,7 +7,7 @@ twitter:
 github: 
 scholar: 
 image: /assets/images/team/Unknown.png
-alum: false
+volunteer: false
 ---
 Mr. Santosh Kumar Sharma is Deputy Manager (Lab) Metrology Lab, at [IIT Indore][1].
 
