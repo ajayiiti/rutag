@@ -7,7 +7,7 @@ twitter:
 github: 
 scholar: 
 image: /assets/images/team/niraj.png
-alum: false
+volunteer: false
 ---
 
 [Dr. Niraj Kumar Shukla][2] is Associate Professor in the department of Mathematics at [IIT Indore][1].<br/>
