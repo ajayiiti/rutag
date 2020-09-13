@@ -1,7 +1,7 @@
 ---
 layout: member
 title: "Dr Aruna Tiwari"
-position: RuTAG Coordinator
+position: Team Coordinator
 email: artiwari@iiti.ac.in
 twitter: 
 github: 
