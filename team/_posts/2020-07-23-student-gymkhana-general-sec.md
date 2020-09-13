@@ -7,7 +7,7 @@ twitter:
 github: 
 scholar: 
 image: /assets/images/team/gymkhana.jpg
-volunteer: false
+volunteer: true
 ---
 
 The Students’ Gymkhana is a body of elected student representatives that represent
