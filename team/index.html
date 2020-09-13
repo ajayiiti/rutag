@@ -49,19 +49,20 @@ navorder: 3
 
 <div class="bigspacer"></div>
 <hr/>
-<div class="bigtitle text-center">Group</div>
+<div class="bigtitle text-center">Students</div>
 <div class="bigspacer"></div>
 
 <div class="row">
 	<div class="col-md-12">
-		<img class="team-photo" src="{{ BASE_PATH }}/assets/images/team/drummond-lab-20190920.jpg"/>
+		<!--img class="team-photo" src="{{ BASE_PATH }}/assets/images/team/.jpg"/-->
 	</div>
 </div>
 
 <div class="bigspacer"></div>
 <hr/>
 
-
+<div class="bigtitle text-center">Volunteers(faculty/staff)</div>
+<div class="bigspacer"></div>
 {% assign volunteer = site.categories.team | where: "volunteer","true"%}
 {% assign memberindex = 0 %}
 {% for member in volunteer %}
