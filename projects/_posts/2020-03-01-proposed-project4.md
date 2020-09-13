@@ -7,11 +7,11 @@ nickname: nickname
 authors: "Author1, Author2"
 image: /assets/images/papers/pab1-phase-separation.svg
 redirect_from: 
-fulltext: https://onlinelibrary.wiley.com/doi/full/10.1111/evo.13697
+fulltext:
 pdf: 
-pdflink: https://onlinelibrary.wiley.com/doi/epdf/10.1111/evo.13697
+pdflink: 
 
-tags: [directed evolution, evolution, prize, arnold]
+tags: 
 ---
 {% include JB/setup %}
 
