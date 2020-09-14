@@ -1,7 +1,7 @@
 ---
 layout: member
 title: "Dr Niraj K. Shukla"
-position: Convenor
+position: Convener
 email: nirajshukla@iiti.ac.in
 twitter: 
 github: 
