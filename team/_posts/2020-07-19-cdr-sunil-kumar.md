@@ -1,7 +1,7 @@
 ---
 layout: member
 title: "Cdr Sunil Kumar (Retd.)"
-position: Student Affairs
+position: Member Secretary
 email: drsa@iiti.ac.in
 twitter: 
 github: 
